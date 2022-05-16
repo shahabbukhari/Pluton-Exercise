@@ -10,9 +10,11 @@ import doctor from "../Assets/doctor.png";
 import lab from "../Assets/lab.png";
 import productImag from "../Assets/productImage.svg";
 import med from "../Assets/med.svg";
+import medical from "../Assets/medical.svg";
 
 export default {
   productImag,
+  medical,
   logo,
   med,
   cart,

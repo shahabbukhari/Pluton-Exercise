@@ -3,6 +3,7 @@ import Blank from "./Components/Blank";
 import DiscountedPro from "./Components/DiscountedPro";
 import Feature from "./Components/Feature";
 import Header from "./Components/Header";
+import Medical from "./Components/Medical";
 import Navbar from "./Components/Navbar";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Blank />
         <Blank />
       </div>
+      <Medical />
     </>
   );
 }

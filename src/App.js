@@ -13,6 +13,10 @@ function App() {
       <Feature />
       <Blank />
       <DiscountedPro />
+      <div className="two-column">
+        <Blank />
+        <Blank />
+      </div>
     </>
   );
 }

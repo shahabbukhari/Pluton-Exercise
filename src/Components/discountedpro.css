@@ -1,0 +1,27 @@
+.dis-product {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--light-gray);
+    height: 360px;
+    width: 272px;
+    left: 77px;
+    top: 173px;
+    border-radius: 19.58333396911621px;
+    /* padding: 20px; */
+}
+.dis-product-spec,.dis-product-code,.dis-product-name, .dis-product-by  {
+    padding-left: 20px;
+
+}
+.dis-product-name {
+    font-size: 2rem;
+}
+.dis-product-spec {
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: 600;
+}
+.dis-product-code {
+    text-decoration: line-through;
+    font-size: 1.3rem;
+}

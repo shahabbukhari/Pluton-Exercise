@@ -1,22 +1,3 @@
-.feature-products {
-    display: flex;
-    flex-direction: column;
-    max-width: 1560px;
-    margin: 0 auto;
-    background-color: white;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-}
-
-.menu {
-    background-color: var(--primary-color);
-    display: flex;
-    justify-content: space-between;
-    padding: 18px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    color: white;
-}
 .products {
     display: flex;
     justify-content: space-between;

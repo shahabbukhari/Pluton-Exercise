@@ -1,7 +1,10 @@
 .products {
     display: flex;
-    justify-content: space-between;
-    margin: 30px;
+    justify-content: center;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    gap: 30px;
+    /* margin: 30px; */
 }
 .product {
     display: flex;
@@ -10,9 +13,10 @@
     border-bottom-right-radius: 20px;
     padding: 20px;
     height: 229px;
-    width: 480.77px;
+    width: 460px;
     justify-content: space-between;
     color: white;
+    margin-bottom: 20px;
 }
 .product img {
     border-radius: 50%;

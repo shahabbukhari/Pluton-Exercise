@@ -11,9 +11,13 @@ import lab from "../Assets/lab.png";
 import productImag from "../Assets/productImage.svg";
 import med from "../Assets/med.svg";
 import medical from "../Assets/medical.svg";
+import doctorP from "../Assets/doctor.svg";
+import star from "../Assets/star.svg";
 
 export default {
+  star,
   productImag,
+  doctorP,
   medical,
   logo,
   med,
